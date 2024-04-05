@@ -1,4 +1,4 @@
-# Nombre final del curso
+# Depura el código: Python y PyTorch
 
 Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
