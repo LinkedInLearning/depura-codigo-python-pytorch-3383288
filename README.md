@@ -1,13 +1,12 @@
 # Depura el código: Python y PyTorch
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Depura el código: Python y PyTorch`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Sumérgete en un proyecto de clasificación de texto en Python con PyTorch, enfrentándote a errores comunes. Aprende a identificar, comprender y resolver problemas en proyectos existentes, ganando habilidades prácticas para la depuración de código. Este curso te proporcionará las herramientas necesarias para elevar tu competencia en el desarrollo de proyectos de inteligencia artificial con PyTorch, convirtiéndote en especialista en la identificación y solución de errores.
 
 ## Instrucciones
 
