@@ -18,7 +18,7 @@ Este repositorio contiene uncuaderno de Jupyter con el código del curso. Tiene 
 1. Instala [Python](https://www.python.org/downloads/), se recomienda la última versión estable.
 2. Para utilizar estos archivos de ejercicios puedes usar editores de código como Pycharm o VScode.
 3. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-4. Desde la terminal accede a alguna de las ramas `depura` o `solucion` y accede al directorio `api_calificacion`.
+4. Desde la terminal accede a alguna de las ramas `depura` o `solucion`.
 5. Crea un ambiente virtual de Python, puedes hacerlo con virtualenv usando los comandos
 
 		pip install virtualenv
